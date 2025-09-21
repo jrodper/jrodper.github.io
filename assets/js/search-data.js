@@ -72,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "nav-public-key",
+          title: "Public Key",
+          description: "My PGP public key.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/pubkey/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
