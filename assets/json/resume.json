@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Jorge Rodríguez",
+    "label": "PhD Student",
+    "image": "prof_pic.jpg",
+    "email": "jorge.rodriguez@uva.es",
+    "phone": "",
+    "url": "https://jrodper.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Valladolid",
+      "countryCode": "ES",
+      "region": "Castilla y León"
     },
     "profiles": [
       {
