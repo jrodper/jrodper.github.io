@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>IndUVa, Paseo Prado de la Magdalena</p>
+    <p>EII, Edificio Mergelina</p>
     <p>Valladolid, Spain</p>
 ---
 
