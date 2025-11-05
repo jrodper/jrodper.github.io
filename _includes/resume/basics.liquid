@@ -1,9 +1,8 @@
 <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-  {% assign skip_basics = 'image,profiles,location' | split: ',' %}
+  {% assign skip_basics = 'profiles' | split: ',' %}
   {% for content in data[1] %}
     {%
-      if (content[1] == "") or (skip_basics contains
-      content[0])
+      if (content[1] == "") or (skip_basics contains content[0])
     %}
       {% continue %}
     {% endif %}
@@ -19,10 +18,23 @@
           <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
         {% elsif content[0] == 'phone' %}
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
+        {% elsif content[0] == 'location' %}
+          {{ content[1].address }}, {{ content[1].city }}, {{ content[1].region }} {{ content[1].postalCode }}, {{ content[1].countryCode }}
         {% else %}
           {{ content[1] }}
         {% endif %}
       </td>
     </tr>
   {% endfor %}
+  
+  <tr>
+    <td class="p-1 pr-2 font-weight-bold">
+      <b>Image</b>
+    </td>
+    <td class="p-1 pl-2 font-weight-light text">
+      {% if basics.image != "" %}
+        <img src="{{ basics.image | prepend: 'assets/img/' }}" alt="Profile Image" class="img-fluid z-depth-1 rounded-circle" style="max-width: 100px; max-height: 100px;"/> <!-- Adjust size as needed -->
+      {% endif %}
+    </td>
+  </tr>
 </table>
