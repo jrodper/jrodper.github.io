@@ -1,7 +1,8 @@
 <div class="list-groups">
 <div class="col-md-4">
-  {% if basics.image != "" %}
-    <img src="{{ basics.image | prepend: '/assets/img/' }}" alt="Profile Image" class="img-fluid z-depth-1 rounded-circle" style="max-height: 200px; margin-right: 30px; margin-bottom: 30px;"/>
+  {% assign image_path = data[1].image %}
+  {% if image_path != "" %}
+    <img src="{{ image_path | prepend: '/assets/img/' }}" alt="Profile Image" class="img-fluid z-depth-1 rounded-circle" style="max-height: 200px; margin-right: 30px; margin-bottom: 30px;"/>
   {% endif %}
 </div>
 
