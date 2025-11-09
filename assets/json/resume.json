@@ -33,14 +33,34 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "GUA / Syrma",
+      "location": "Valladolid, Spain",
+      "position": "",
+      "url": "https://syrma.net/contacto.jsp",
+      "startDate": "2021-09-01",
+      "endDate": "",
+      "summary": "GUA and Syrma are two closely related societies of amateur astronomers that organize talks for the general public, public observation events, and various other activities related to astronomy.",
+      "highlights": ["Media Coordinator from 2021 to the present."]
+    },
+    {
+      "organization": "Physics League",
+      "location": "Valladolid, Spain",
+      "position": "",
+      "url": "https://physicsleague.es/",
+      "startDate": "2019-09-01",
+      "endDate": "",
+      "summary": "Physics League is a university society that specializes in outreach activities related to physics for schools and the general public.",
+      "highlights": ["Treasurer from 2021 to 2023.", "R&D Coordinator from 2024 to the present."]
+    },
+    {
+      "organization": "XXI ENEM",
+      "location": "Valladolid, Spain",
+      "position": "Organizing committee",
+      "url": "https://web.archive.org/web/20200929020335/http://enem.anem.es/comite-organizador/",
+      "startDate": "2019-09-01",
+      "endDate": "2020-07-31",
+      "summary": "The ENEM is a meeting for mathematics students from all over Spain.",
+      "highlights": []
     }
   ],
   "education": [
