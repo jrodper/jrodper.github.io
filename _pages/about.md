@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.uva.es/'>University of Valladolid</a>. Spain.
+subtitle: <a href='https://www.uva.es/'>Universidad de Valladolid</a>. Spain.
 
 profile:
   align: right
