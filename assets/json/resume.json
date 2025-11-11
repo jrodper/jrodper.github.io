@@ -31,6 +31,52 @@
       "summary": "Professor's assistant in problem seminars for first-year mathematics students."
     }
   ],
+  "education": [
+    {
+      "institution": "Universidad de Valladolid",
+      "location": "Valladolid, Spain",
+      "url": "https://www.uva.es/",
+      "area": "Joint Degree Program in Physics and Mathematics",
+      "studyType": "Degree",
+      "startDate": "2019-09",
+      "endDate": "2024-07",
+      "score": "9.244",
+      "courses": []
+    },
+    {
+      "institution": "University of Dundee",
+      "location": "Dundee, Scotland, UK",
+      "url": "https://www.dundee.ac.uk/",
+      "area": "Erasmus Exchange Program",
+      "studyType": "Degree",
+      "startDate": "2022-09",
+      "endDate": "2023-05",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Valladolid",
+      "location": "Valladolid, Spain",
+      "url": "https://www.uva.es/",
+      "area": "Master in Mathematics",
+      "studyType": "Master",
+      "startDate": "2024-09",
+      "endDate": "2025-09",
+      "score": "9.740",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Valladolid",
+      "location": "Valladolid, Spain",
+      "url": "https://www.uva.es/",
+      "area": "PhD in Mathematics",
+      "studyType": "PhD",
+      "startDate": "2025-10",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
   "volunteer": [
     {
       "organization": "GUA / Syrma",
@@ -61,41 +107,6 @@
       "endDate": "2020-07",
       "summary": "The ENEM is a meeting for mathematics students from all over Spain.",
       "highlights": []
-    }
-  ],
-  "education": [
-    {
-      "institution": "Universidad de Valladolid",
-      "location": "Valladolid, Spain",
-      "url": "https://www.uva.es/",
-      "area": "Joint Degree Program in Physics and Mathematics",
-      "studyType": "Degree",
-      "startDate": "2019-09",
-      "endDate": "2024-07",
-      "score": "9.244",
-      "courses": []
-    },
-    {
-      "institution": "Universidad de Valladolid",
-      "location": "Valladolid, Spain",
-      "url": "https://www.uva.es/",
-      "area": "Master in Mathematics",
-      "studyType": "Master",
-      "startDate": "2024-09",
-      "endDate": "2025-09",
-      "score": "9.740",
-      "courses": []
-    },
-    {
-      "institution": "Universidad de Valladolid",
-      "location": "Valladolid, Spain",
-      "url": "https://www.uva.es/",
-      "area": "PhD in Mathematics",
-      "studyType": "PhD",
-      "startDate": "2025-10",
-      "endDate": "",
-      "score": "",
-      "courses": []
     }
   ],
   "awards": [
