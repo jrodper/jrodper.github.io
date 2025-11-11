@@ -31,6 +31,26 @@
       "summary": "Professor's assistant in problem seminars for first-year mathematics students."
     }
   ],
+  "mobility": [
+    {
+      "institution": "University of Dundee",
+      "location": "Dundee, Scotland, UK",
+      "url": "https://www.dundee.ac.uk/",
+      "mobilityType": "Erasmus+",
+      "startDate": "2022-09",
+      "endDate": "2023-05",
+      "summary": "One year studying abroad as part of my degree."
+    },
+    {
+      "institution": "Cairo University",
+      "location": "Cairo, Egypt",
+      "url": "https://eng.cu.edu.eg/en/",
+      "mobilityType": "Erasmus+ KA171",
+      "startDate": "2025-07-13",
+      "endDate": "2025-07-17",
+      "summary": "One week as a visiting professor."
+    },
+  ]
   "education": [
     {
       "institution": "Universidad de Valladolid",
@@ -41,17 +61,6 @@
       "startDate": "2019-09",
       "endDate": "2024-07",
       "score": "9.244",
-      "courses": []
-    },
-    {
-      "institution": "University of Dundee",
-      "location": "Dundee, Scotland, UK",
-      "url": "https://www.dundee.ac.uk/",
-      "area": "Erasmus Exchange Program",
-      "studyType": "Degree",
-      "startDate": "2022-09",
-      "endDate": "2023-05",
-      "score": "",
       "courses": []
     },
     {
@@ -75,6 +84,15 @@
       "endDate": "",
       "score": "",
       "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "volunteer": [
@@ -107,15 +125,6 @@
       "endDate": "2020-07",
       "summary": "The ENEM is a meeting for mathematics students from all over Spain.",
       "highlights": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [
