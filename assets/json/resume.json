@@ -72,7 +72,29 @@
       "studyType": "Degree",
       "startDate": "2019-09",
       "endDate": "2024-07",
-      "score": "10",
+      "score": "9.244",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Valladolid",
+      "location": "Valladolid, Spain",
+      "url": "https://www.uva.es/",
+      "area": "Master in Mathematics",
+      "studyType": "Master",
+      "startDate": "2024-09",
+      "endDate": "2025-09",
+      "score": "9.740",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Valladolid",
+      "location": "Valladolid, Spain",
+      "url": "https://www.uva.es/",
+      "area": "PhD in Mathematics",
+      "studyType": "PhD",
+      "startDate": "2025-10",
+      "endDate": "",
+      "score": "",
       "courses": []
     }
   ],
