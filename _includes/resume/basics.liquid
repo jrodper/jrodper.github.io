@@ -1,12 +1,13 @@
 <div class="list-groups">
   <div class="col-md-4">
-    {% assign image_path = data[1].image %} {% if image_path != "" %}
-    <img
-      src="{{ image_path | prepend: '/assets/img/' }}"
-      alt="Profile Image"
-      class="img-fluid z-depth-1 rounded-circle"
-      style="max-height: 200px; margin-right: 30px; margin-bottom: 30px"
-    />
+    {% assign image_path = data[1].image %}
+    {% if image_path != '' %}
+      <img
+        src="{{ image_path | prepend: '/assets/img/' }}"
+        alt="Profile Image"
+        class="img-fluid z-depth-1 rounded-circle"
+        style="max-height: 200px; margin-right: 30px; margin-bottom: 30px"
+      >
     {% endif %}
   </div>
 
@@ -16,9 +17,7 @@
     >
       {% assign skip_basics = 'profiles,image' | split: ',' %}
       {% for content in data[1] %}
-        {%
-          if (content[1] == "") or (skip_basics contains content[0])
-        %}
+        {% if (content[1] == "") or (skip_basics contains content[0]) %}
           {% continue %}
         {% endif %}
 
@@ -34,8 +33,10 @@
             {% elsif content[0] == 'phone' %}
               <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
             {% elsif content[0] == 'location' %}
-              {{ content[1].address }}, {{content[1].city }}, {{ content[1].region }} {{ content[1].postalCode}},
-              {{ content[1].countryCode }} {% else %} {{ content[1] }}
+              {{ content[1].address }}, {{ content[1].city }}, {{ content[1].region }}
+              {{ content[1].postalCode }}, {{ content[1].countryCode }}
+            {% else %}
+              {{ content[1] }}
             {% endif %}
           </td>
         </tr>
