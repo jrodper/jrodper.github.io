@@ -92,27 +92,21 @@
       "date": "2024-06",
       "location": "Madrid, Spain",
       "url": "https://eventos.ucm.es/104844/detail/eaca2024.html",
-      "activities":[
-        "Poster presentation"
-      ]
+      "activities": ["Poster presentation"]
     },
     {
       "event": "Encuentro sobre Fronteras de la Ciencia 2024",
       "date": "2024-09",
       "location": "Salamanca, Spain",
       "url": "https://fronteras.usal.es/",
-      "activities":[
-        "Poster presentation"
-      ]
+      "activities": ["Poster presentation"]
     },
     {
       "event": "6th BYMAT Conference: Bringing Young Mathematicians Together",
       "date": "2024-11",
-      "location": "Salamanca, Spain",
+      "location": "Valladolid, Spain",
       "url": "https://eventos.uva.es/109666/detail/6th-bymat-conference-bringing-young-mathematicians-together-november-4th-7th.html/",
-      "activities":[
-        "Talk: Inflection Points of Algebraic Surfaces, a Modern Approach to the Work of George Salmon"
-      ]
+      "activities": ["Talk: Inflection Points of Algebraic Surfaces, a Modern Approach to the Work of George Salmon"]
     }
   ],
   "awards": [
