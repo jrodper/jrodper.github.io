@@ -92,7 +92,21 @@
       "date": "2024-12-04",
       "awarder": "UVa - Banco Santander",
       "url": "https://app.santanderopenacademy.com/es/application/share-granted/premios-uva-b-santander-de-excelencia-en-grado-para-estudiantes-de-master-curso-2024-25?program=Beca%20Santander%20%7C%20Premios%20UVa-B%20Santander%20de%20excelencia%20en%20Grado%20para%20estudiantes%20de%20M%C3%A1ster,%20curso%202024/25&id=674f2794c11b6ae8838879ba&doc=14rjjmf36hzr2&sharedId=68b77d6d91533b6591c31c7e",
-      "summary": "For achieving the highest grade in my degree in the 2024/2025 academic year."
+      "summary": "For achieving the highest grade in my degree."
+    },
+    {
+      "title": "Premio Extraordinario Fin de Carrera en los estudios de Grado en Física",
+      "date": "2024-12-03",
+      "awarder": "Universidad de Valladolid",
+      "url": "",
+      "summary": "For achieving the highest grade among the graduates of Physics."
+    },
+    {
+      "title": "Premio Extraordinario Fin de Carrera en los estudios de Grado en Matemáticas",
+      "date": "2024-12-03",
+      "awarder": "Universidad de Valladolid",
+      "url": "",
+      "summary": "For achieving the highest grade among the graduates of Mathematics."
     }
   ],
   "volunteer": [
@@ -125,65 +139,6 @@
       "endDate": "2020-07",
       "summary": "The ENEM is a meeting for mathematics students from all over Spain.",
       "highlights": []
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
