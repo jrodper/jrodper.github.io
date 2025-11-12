@@ -33,7 +33,8 @@
             {% elsif content[0] == 'phone' %}
               <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
             {% elsif content[0] == 'location' %}
-              {{ content[1].address }}, {{ content[1].postalCode }} {{ content[1].city }}, {{ content[1].country }}
+              {{ content[1].address }}, {{ content[1].postalCode }}
+              {{ content[1].city }}, {{ content[1].country }}
             {% else %}
               {{ content[1] }}
             {% endif %}
