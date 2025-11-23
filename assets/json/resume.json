@@ -106,6 +106,13 @@
       "location": "Valladolid, Spain",
       "url": "https://eventos.uva.es/109666/detail/6th-bymat-conference-bringing-young-mathematicians-together-november-4th-7th.html/",
       "activities": ["Talk: Inflection Points of Algebraic Surfaces, a Modern Approach to the Work of George Salmon"]
+    },
+    {
+      "event": "7th BYMAT Conference: Bringing Young Mathematicians Together",
+      "date": "2025-11",
+      "location": "Sevilla, Spain",
+      "url": "https://www.imus.us.es/congresos/BYMAT/",
+      "activities": ["Talk: Dynamic and numerical methods of average theory with application in oscillator problems", "Poster presentation"]
     }
   ],
   "awards": [
