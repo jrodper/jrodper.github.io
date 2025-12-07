@@ -16,15 +16,22 @@
   },
   "work": [
     {
+      "name": "Escuela de Ingenierías Industriales, Universidad de Valladolid",
+      "position": "FPU PhD Researcher",
+      "startDate": "2025-12-01",
+      "endDate": "",
+      "summary": "Researcher funded by the Ministerio de Ciencia, Innovación y Universidades under the FPU24 program."
+    },
+    {
       "name": "Facultad de Ciencias, Universidad de Valladolid",
-      "position": "Substitute professor",
+      "position": "Substitute Professor",
       "startDate": "2024-10-01",
       "endDate": "2025-07-31",
       "summary": "In charge of the problem seminars for first-year calculus in the physics degree program."
     },
     {
       "name": "School of Science and Engineering, University of Dundee",
-      "position": "Part-time tutor",
+      "position": "Part-time Tutor",
       "startDate": "2022-09-26",
       "endDate": "2023-03-31",
       "summary": "Professor's assistant in problem seminars for first-year mathematics students."
