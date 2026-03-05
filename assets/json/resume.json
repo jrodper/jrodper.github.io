@@ -131,6 +131,13 @@
   ],
   "awards": [
     {
+      "title": "Premio Extraordinario Fin de Carrera en los estudios de Máster en Matemáticas",
+      "date": "2025-11-10",
+      "awarder": "Universidad de Valladolid",
+      "url": "",
+      "summary": "For achieving the highest grade among the graduates of the master's program."
+    },
+    {
       "title": "Premio a la Excelencia Académica en el Grado",
       "date": "2024-12-04",
       "awarder": "UVa - Banco Santander",
@@ -150,13 +157,6 @@
       "awarder": "Universidad de Valladolid",
       "url": "",
       "summary": "For achieving the highest grade among the graduates of Mathematics."
-    },
-    {
-      "title": "Premio Extraordinario Fin de Carrera en los estudios de Máster en Matemáticas",
-      "date": "2025-11-10",
-      "awarder": "Universidad de Valladolid",
-      "url": "",
-      "summary": "For achieving the highest grade among the graduates of the master's program."
     }
   ],
   "volunteer": [
