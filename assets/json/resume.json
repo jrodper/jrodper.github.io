@@ -122,11 +122,18 @@
       "activities": ["Talk: Dynamic and numerical methods of average theory with application in oscillator problems", "Poster presentation"]
     },
     {
-      "event": "22nd RTNS",
+      "event": "22nd Recent Trends in Nonlinear Science (RTNS)",
       "date": "2026-02",
       "location": "Granada, Spain",
       "url": "https://www.dance-net.org/rtns/42/",
       "activities": ["Poster presentation"]
+    },
+    {
+      "event": "Recent Advances in Dynamical Systems (RADS2026)",
+      "date": "2026-06",
+      "location": "Oviedo, Spain",
+      "url": "https://www.dance-net.org/gdm/43/",
+      "activities": ["Talk: The averaging principle for ordinary differential equations depending on the slow time", "Poster presentation"]
     }
   ],
   "awards": [
