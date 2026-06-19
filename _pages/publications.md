@@ -16,7 +16,7 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="bibliography">Preprints</h2>
-{% bibliography -f preprints %}
+{% bibliography -f preprints --template bib %}
 
 {% bibliography %}
 
