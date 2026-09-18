@@ -134,6 +134,13 @@
       "location": "Oviedo, Spain",
       "url": "https://www.dance-net.org/gdm/43/",
       "activities": ["Talk: The averaging principle for ordinary differential equations depending on the slow time", "Poster presentation"]
+    },
+    {
+      "event": "XXIX Congreso de Ecuaciones Diferenciales y Aplicaciones / XIX Congreso de Matemática Aplicada (CEDYA/CMA)",
+      "date": "2026-07",
+      "location": "Valencia, Spain",
+      "url": "https://www.sema.org.es/es/cedya2026/",
+      "activities": ["Talk: The averaging principle for ordinary differential equations with dependence on two time scales"]
     }
   ],
   "awards": [
