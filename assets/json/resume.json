@@ -141,6 +141,13 @@
       "location": "Valencia, Spain",
       "url": "https://www.sema.org.es/es/cedya2026/",
       "activities": ["Talk: The averaging principle for ordinary differential equations with dependence on two time scales"]
+    },
+    {
+      "event": "8th BYMAT Conference: Bringing Young Mathematicians Together",
+      "date": "2026-10",
+      "location": "Santiago de Compostela, Spain",
+      "url": "https://sites.google.com/view/8thbymat/home/",
+      "activities": ["Talk: Averaging theory for ordinary differential equations that depend on two time scales", "Poster presentation"]
     }
   ],
   "awards": [
